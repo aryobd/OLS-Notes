@@ -1,0 +1,27 @@
+these changes will be affected module Marketing - Agreement Information Inquiry
+these changes will be affected module Marketing - Board of Director Decree (SKD Process)
+these changes will be affected module Management - Monitoring OPL Unit & Replacement Car
+these changes will be affected module Marketing - Calculation of Operating Lease
+these changes will be affected module Procurement - Monitoring Purchase Order
+these changes will be affected module Management - Monitoring Unit Preparation
+these changes will be affected module Collection - Monitor Schedule
+
+
+
+these changes will be affected module Marketing - Board of Director Decree (SKD Process) & Marketing - Calculation of Operating Lease
+these changes will be affected module Marketing - Agreement Information Inquiry & Procurement - Monitoring Purchase Order
+
+these changes will be affected module Marketing - Board of Director Decree (SKD Process) & Agreement Information Inquiry 
+
+
+REVISI TOP remarks only check whether data is sync or not jika sudah selesai
+
+134729
+S0257210
+
+0000310/4/10/12/2021
+
+137758
+140253
+
+0000363/4/08/08/2020

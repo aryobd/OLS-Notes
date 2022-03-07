@@ -1,0 +1,27 @@
+1. Jika ada revisi invoice, Langkahnya adalah :
+
+    1. Minta pihak MFAPPL untuk melakukan revisi (pak ahmad dan pak lukman)
+    2. Tunggu data ke sync di OLS
+    3. Kemudian cek di Collection > Monitor Schedule >cari agreementnya
+    4. Buka invoice & kwitansi, rubah datanya dgn klik save to excel
+    5. Kemudian ganti tanggalnya dan rapikan tampilan excelnya (terbilang & alamat) kemudian lakukan save as dijadikan PDF untuk penamaan menjadi No invoicenya, begitu juga dengan kwitansi
+
+
+
+
+2. Jika ada revisi TOP
+
+
+
+3. Monitor Billing
+exec query "query monitoring billing", sebelumnya akan menerima email data dr MF APPL kemudian dicek apakah data sesuai antara MF APPL antara OLSS
+
+
+
+
+
+
+
+
+
+

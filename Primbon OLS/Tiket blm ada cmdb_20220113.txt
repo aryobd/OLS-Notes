@@ -1,0 +1,5 @@
+yang belum ada tiket cmdbnya :
+141754 - revisi total quantity pada detail unit Agreement dan PO an GRAHAPRIMA SUKSESMANDIRI. PT agr no. 0000584/4/08/10/2021:Total quantity sebelumnya : 10 unitRevisi menjadi : 5 unit - Alletta Adzanni
+141808 - Revisi SKD : 079/4/03/12/2021 an PT Guntner Indonesia - Andri OPL
+141954 - Split Supplier unit menjadi :PT Bumen Redja Abadi dan PT Dipo Internasional Pahala Otomotif - Herni Hembang
+142247 - Change Supplier Name SKD 930/4/01/12/2021 & 931/4/01/12/2021 - Farah Marthalia

@@ -1,0 +1,27 @@
+select * from Tb_MTN_WorkOrder
+where WorkOrderNum like '%00984/SPK-DSF/SMG/10/2021%'
+
+
+
+select * from Tb_MTN_Monschdl
+where IdTb_MTN_Monschdl = 243912
+
+
+
+select * from OPLAgreement
+where AgreementNumber = '0000022/4/06/09/2020'
+
+
+
+select * from Tb_OPL_Unit
+where PoliceNumber = 'H8291CA'
+
+
+
+select * from Product
+where IdProduct = 1461
+
+
+
+select * from Customer
+where CustomerCode = '0630609'

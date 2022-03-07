@@ -1,0 +1,20 @@
+TICKET MASIH OPEN
+121450 - change supplier name SKD 0000286/4/10/08/2021 & set to sraft calculation 00480/OCN/01/08/2021 - Farah Marthalia (DONE)
+122419 - Unit Dengan No Polisi BB9897SCJ & B9862SCJ  tidak tampil disystem - Antonius Fedrik Yohanes Yahya (BELUM FULL APPROVE)
+121759 - Mohon bantuannya agar dapat direvisi Term Of Payment an :PT Anugerah Prima Sejahterah, PT Borwita CItra Prima, PT KTB, PT Graha Sarana Duta, G4S, PT Sirkulasi Kompas Gramedia, PT Infomedia Nusantara, PT Sumber Prima Anugrah Abadi (detail terlampir) - Alletta Adzanni (DONE)
+121853 - Change Quantity SKD Number 0000910/4/01/11/2021 - Farah Marthalia - DONE
+122725 - Mohon bantuannya agar dapat direvisi Term Of Payment atan agreement PT. TRIJAYA UNION no agreement 0000826/4/01/08/2021 - Alletta Adzanni (BELUM FULL APPROVE) - S0252784
+
+121906 - Data Maintenance Noka Nosin PT SICEPAT EKSPRES INDONESIA 860 & 865 - Nurul Farah Dianti
+
+selamat pagi pak, izin bertanya untuk tiket itd data maintenance dibawah ini:
+1. 122419 - Unit Dengan No Polisi BB9897SCJ & B9862SCJ  tidak tampil disystem request by Antonius Fedrik Yohanes Yahya
+2. 121906 - 121906 - Data Maintenance Noka Nosin PT SICEPAT EKSPRES INDONESIA 860 & 865 request by Nurul Farah Dianti
+itu apakah memang sampai saat ini belum full approve ya pak?
+
+dan untuk tiket ini :
+1. 122725 - Mohon bantuannya agar dapat direvisi Term Of Payment atan agreement PT. TRIJAYA UNION no agreement 0000826/4/01/08/2021 - Alletta Adzanni
+
+saya confirm ke tim yang mengerjakan, itu pengerjaan ada pada MF APPL dan dr sisi OLSS hanya bantu monitor apakah data sdh tersync di OLSS atau blm. itu bagaimana ya pak?
+
+S0249149
