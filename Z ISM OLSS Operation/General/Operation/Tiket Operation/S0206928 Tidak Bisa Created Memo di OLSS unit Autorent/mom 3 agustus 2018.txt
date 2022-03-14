@@ -1,0 +1,18 @@
+feedback asset selling
+
+data migration & cleansing
+a. asset -> seharusnya direconcile antara OLSS dan MFAPPL sebelum golive (tidak dilakukan). contohnya autorent dan replacement car. 
+- replacement car tinggal 20an tidak akan ditambah lagi, didaftarkan di agreement yg berbeda (1:10). setiap agreement memiliki budget replacement. replacement tidak terdaftar di finance object, sehingga rilis BPKB dilakukan manual. modul replacement car OLSS saat ini hanya register dan monitoring unit replacement terdaftar di agreement mana. replacement car yang tidak memiliki agreement tidak akan tampil di asset selection. 
+
+
+workaround : 
+- apabila semua replacement car diattach ke satu agreement, cost price akan bertambah. 
+- apabila dibuat agreement dgn nama dummy, tidak memungkinkan karena format agreement sudah baku
+
+- solution : manual proses, tapi dibuatkan generate data replacement car dan BPKB yg outstanding setiap bulan -> pak eddy yg provide. 
+
+- autorent : manual proses.
+tambah status asset di OLSS : sold, in used. setelah asset sold di MFAPPL, OLSS akan menyesuaikan.
+
+- cost price : 
+diambil dari asset registration. tidak usah direcon antara cost price dan FOB.

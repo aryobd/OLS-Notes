@@ -1,0 +1,1 @@
+update Tb_DIS_Agreement set AgreementNumber = '0000503/4/01/07/2020', Invalid = 0, InvalidReason = '' where DisposalNumber = '20210805150029564'

@@ -1,0 +1,3 @@
+ALTER TABLE Tb_RPT_DispApprovalEmp
+ADD IdTb_DIS_AssetSelling int NOT NULL DEFAULT(0)
+GO
