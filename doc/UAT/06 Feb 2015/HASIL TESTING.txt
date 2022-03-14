@@ -1,0 +1,19 @@
+2015-02-06
+Hasil Testing OLSS dengan User:
+1.Nilai STNK-KEUR cost yang digunakan di formula excel ialah 
+"Total Registration Value".
+Sedangkan aplikasi menggunakan nilai STNK dan KEUR per tahun
+
+2.Nilai kalkulasi tolong dibulatkan, semisal 274.200.000, pada
+aplikasi tampil 274.199.993
+
+3.Terdapat perbedaan formula untuk menghitung "Insurance Cost",
+pada excel "Insurance Cost" = "Insurance Premi Bruto" - "Insurance Discount" + "Mediator Fee"
+pada aplikasi "Insurance Cost" = "Insurance Premi Bruto" + "Mediator Fee"
+
+4.Nilai "Monthly Installment Cost" tidak sama dengan hasil di excel,
+karena ada perbedaan hasil kalkulasi "Total Income".
+Kemungkinan perbedaan kalkulasi terjadi karena:
+a.hasil konversi "Spread Efektif Rate" ke "Spread Flate Rate" 
+b.nilai total STNK + KEUR yang digunakan
+c.kalkulasi nilai "Depreciation"
