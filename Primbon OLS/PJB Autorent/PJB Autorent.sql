@@ -1,13 +1,37 @@
-	select IdUObjLease, idtb_dis_agreement, a.disposalnumber, b.memonumber, c.agreementnumber, a.AgreementNumber, assetcode, a.enginenumber, c.enginenumber, identitypolicenumber 
-	, a.BookValue, a.productprice from Tb_DIS_Agreement a, tb_dis_assetselling b, OPLUObjectLease c, tb_opl_unit d 
-	where a.DisposalNumber = b.disposalnumber 
-	and a.EngineNumber = c.EngineNumber
-	and a.EngineNumber = d.EngineNumber
-	and b.MemoNumber in ('00036/COP/03/2022') and c.isdelete = 0 and d.IsDelete = 0
-	order by a.disposalnumber, MemoNumber, IdTb_DIS_Agreement
+------------------------------------------------
+-- 1. BUAT CEK DATA EXCEL DGN SISTEM SDH SAMA --
+------------------------------------------------
+select
+c.IdUObjLease, a.IdTb_DIS_Agreement, a.DisposalNumber, b.MemoNumber,
+c.AgreementNumber, a.AgreementNumber,
+a.AssetCode,
+a.EngineNumber, c.EngineNumber,
+c.IdentityPoliceNumber,
+a.BookValue, a.ProductPrice
 
-select* from Tb_DIS_Agreement where IdTb_DIS_Agreement = '8446'
-select* from Tb_DIS_Agreement where agreementnumber = '0000815/4/01/07/2021'
+from
+Tb_DIS_Agreement a,
+Tb_DIS_AssetSelling b,
+OPLUObjectLease c,
+Tb_OPL_Unit d
+
+where a.DisposalNumber = b.DisposalNumber
+and a.EngineNumber = c.EngineNumber
+and a.EngineNumber = d.EngineNumber
+and c.IsDelete = 0
+and d.IsDelete = 0
+and b.MemoNumber in ('00070/COP/06/2022')
+
+order by
+a.DisposalNumber, b.MemoNumber, a.IdTb_DIS_Agreement;
+
+/*
+KALO NOPOL BEDA PAKAI ENGINENUMBER
+KALO NOPOL SAMA TINGGAL UPDATE AJA
+*/
+
+select * from Tb_DIS_Agreement where IdTb_DIS_Agreement = '8446'
+select * from Tb_DIS_Agreement where agreementnumber = '0000815/4/01/07/2021'
 
 --update Tb_DIS_Agreement set BookValue = '57395826' where IdTb_DIS_Agreement = '8446'
 
@@ -17,7 +41,10 @@ select* from Tb_DIS_Agreement where agreementnumber = '0000815/4/01/07/2021'
 
 --update Tb_DIS_Agreement set AssetCode = '4120036566', BookValue = '25500000.0119254', ProductPrice = '85000000' where IdTb_DIS_Agreement = '8163'
 
---SCRIPT NO 2
+
+--------------------------------------------------------------
+-- SCRIPT NO 2 --> BUAT AMBIL DATA YG DIPERLUKAN UTK INSERT --
+--------------------------------------------------------------
 select * from Tb_DIS_Agreement a, tb_dis_assetselling b
 where a.DisposalNumber = b.disposalnumber and MemoNumber in ('00036/COP/03/2022')
 order by memonumber
