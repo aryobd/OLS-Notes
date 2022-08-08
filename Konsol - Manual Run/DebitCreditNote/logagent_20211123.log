@@ -1,0 +1,45 @@
+
+Log Entry : 9:13:16 AM Tuesday, November 23, 2021
+  :
+  :Sinkronisasi mulai berjalan
+-------------------------------
+
+Log Entry : 9:13:17 AM Tuesday, November 23, 2021
+  :
+  :Total row akan diproses sebanyak: 2 baris
+-------------------------------
+
+Log Entry : 9:13:17 AM Tuesday, November 23, 2021
+  :
+  :Alamat sync = http://localhost/olss2/MGTIntegrationDebitCreditNote/GetToOLSSAPI/1328
+-------------------------------
+
+Log Entry : 9:13:17 AM Tuesday, November 23, 2021
+  :
+  :Berhasil memproses 1 data dari 2 baris
+-------------------------------
+
+Log Entry : 9:13:17 AM Tuesday, November 23, 2021
+  :
+  :Payment history for agreement number 0000194/4/08/02/2018 Has been updated
+-------------------------------
+
+Log Entry : 9:13:17 AM Tuesday, November 23, 2021
+  :
+  :Alamat sync = http://localhost/olss2/MGTIntegrationDebitCreditNote/GetToOLSSAPI/1329
+-------------------------------
+
+Log Entry : 9:13:17 AM Tuesday, November 23, 2021
+  :
+  :Berhasil memproses 2 data dari 2 baris
+-------------------------------
+
+Log Entry : 9:13:17 AM Tuesday, November 23, 2021
+  :
+  :Payment history for agreement number 0000195/4/08/02/2018 Has been updated
+-------------------------------
+
+Log Entry : 9:13:17 AM Tuesday, November 23, 2021
+  :
+  :Total baris diproses ada 2
+-------------------------------

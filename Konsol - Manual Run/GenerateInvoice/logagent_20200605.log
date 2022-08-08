@@ -1,0 +1,960 @@
+
+Log Entry : 8:46:47 AM Friday, June 5, 2020
+  :
+  :Sinkronisasi mulai berjalan
+-------------------------------
+
+Log Entry : 8:46:48 AM Friday, June 5, 2020
+  :
+  :Total row akan diproses sebanyak: 63 baris
+-------------------------------
+
+Log Entry : 8:46:48 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000007/4/03/03/2016&&InvoiceNumber=12689/INV/SBY/06/2020&&StrEndPeriod=20200601&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:46:49 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 1 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:46:49 AM Friday, June 5, 2020
+  :
+  :Invoice 12689/INV/SBY/06/2020 Invoice Number: 12689/INV/SBY/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:46:49 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000008/4/03/03/2016&&InvoiceNumber=12690/INV/SBY/06/2020&&StrEndPeriod=20200601&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:46:50 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 2 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:46:50 AM Friday, June 5, 2020
+  :
+  :Invoice 12690/INV/SBY/06/2020 Invoice Number: 12690/INV/SBY/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:46:50 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000012/4/31/06/2015&&InvoiceNumber=12691/INV/KRW/06/2020&&StrEndPeriod=20200601&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:46:51 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 3 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:46:51 AM Friday, June 5, 2020
+  :
+  :Invoice 12691/INV/KRW/06/2020 Invoice Number: 12691/INV/KRW/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:46:51 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000020/4/03/04/2020&&InvoiceNumber=12692/INV/SBY/06/2020&&StrEndPeriod=20200601&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:46:51 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 4 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:46:51 AM Friday, June 5, 2020
+  :
+  :Invoice 12692/INV/SBY/06/2020 Invoice Number: 12692/INV/SBY/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:46:51 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000058/4/04/11/2018&&InvoiceNumber=12693/INV/BDG/06/2020&&StrEndPeriod=20200601&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:46:52 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 5 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:46:52 AM Friday, June 5, 2020
+  :
+  :Invoice 12693/INV/BDG/06/2020 Invoice Number: 12693/INV/BDG/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:46:52 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000158/4/01/04/2016&&InvoiceNumber=12694/INV/JKC/06/2020&&StrEndPeriod=20200601&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:46:53 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 6 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:46:53 AM Friday, June 5, 2020
+  :
+  :Invoice 12694/INV/JKC/06/2020 Invoice Number: 12694/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:46:53 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000176/4/10/06/2016&&InvoiceNumber=12695/INV/JKS/06/2020&&StrEndPeriod=20200601&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:46:54 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 7 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:46:54 AM Friday, June 5, 2020
+  :
+  :Invoice 12695/INV/JKS/06/2020 Invoice Number: 12695/INV/JKS/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:46:54 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000177/4/10/06/2016&&InvoiceNumber=12696/INV/JKS/06/2020&&StrEndPeriod=20200601&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:46:55 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 8 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:46:55 AM Friday, June 5, 2020
+  :
+  :Invoice 12696/INV/JKS/06/2020 Invoice Number: 12696/INV/JKS/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:46:55 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000216/4/08/07/2018&&InvoiceNumber=12697/INV/JKN/06/2020&&StrEndPeriod=20200601&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:46:55 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 9 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:46:55 AM Friday, June 5, 2020
+  :
+  :Invoice 12697/INV/JKN/06/2020 Invoice Number: 12697/INV/JKN/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:46:55 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000248/4/10/08/2019&&InvoiceNumber=12698/INV/JKS/06/2020&&StrEndPeriod=20200601&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:46:55 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 10 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:46:55 AM Friday, June 5, 2020
+  :
+  :Invoice 12698/INV/JKS/06/2020 Invoice Number: 12698/INV/JKS/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:46:55 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000249/4/10/08/2019&&InvoiceNumber=12699/INV/JKS/06/2020&&StrEndPeriod=20200601&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:46:56 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 11 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:46:56 AM Friday, June 5, 2020
+  :
+  :Invoice 12699/INV/JKS/06/2020 Invoice Number: 12699/INV/JKS/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:46:56 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000303/4/08/03/2020&&InvoiceNumber=12700/INV/JKN/06/2020&&StrEndPeriod=20200601&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:46:57 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 12 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:46:57 AM Friday, June 5, 2020
+  :
+  :Invoice 12700/INV/JKN/06/2020 Invoice Number: 12700/INV/JKN/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:46:57 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000312/4/01/07/2019&&InvoiceNumber=12701/INV/JKC/06/2020&&StrEndPeriod=20200601&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:46:57 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 13 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:46:57 AM Friday, June 5, 2020
+  :
+  :Invoice 12701/INV/JKC/06/2020 Invoice Number: 12701/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:46:57 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000328/4/01/08/2019&&InvoiceNumber=12702/INV/JKC/06/2020&&StrEndPeriod=20200601&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:46:59 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 14 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:46:59 AM Friday, June 5, 2020
+  :
+  :Invoice 12702/INV/JKC/06/2020 Invoice Number: 12702/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:46:59 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000369/4/01/10/2019&&InvoiceNumber=12703/INV/JKC/06/2020&&StrEndPeriod=20200601&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:46:59 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 15 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:46:59 AM Friday, June 5, 2020
+  :
+  :Invoice 12703/INV/JKC/06/2020 Invoice Number: 12703/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:46:59 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000382/4/01/11/2019&&InvoiceNumber=12704/INV/JKC/06/2020&&StrEndPeriod=20200601&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:46:59 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 16 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:46:59 AM Friday, June 5, 2020
+  :
+  :Invoice 12704/INV/JKC/06/2020 Invoice Number: 12704/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:46:59 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000462/4/01/03/2020&&InvoiceNumber=12705/INV/JKC/06/2020&&StrEndPeriod=20200601&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:00 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 17 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:00 AM Friday, June 5, 2020
+  :
+  :Invoice 12705/INV/JKC/06/2020 Invoice Number: 12705/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:00 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000018/4/31/03/2015&&InvoiceNumber=12706/INV/KRW/06/2020&&StrEndPeriod=20200602&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:01 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 18 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:01 AM Friday, June 5, 2020
+  :
+  :Invoice 12706/INV/KRW/06/2020 Invoice Number: 12706/INV/KRW/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:01 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000160/4/08/07/2017&&InvoiceNumber=12707/INV/JKN/06/2020&&StrEndPeriod=20200602&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:01 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 19 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:01 AM Friday, June 5, 2020
+  :
+  :Invoice 12707/INV/JKN/06/2020 Invoice Number: 12707/INV/JKN/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:01 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000221/4/01/01/2018&&InvoiceNumber=12708/INV/JKC/06/2020&&StrEndPeriod=20200602&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:01 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 20 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:01 AM Friday, June 5, 2020
+  :
+  :Invoice 12708/INV/JKC/06/2020 Invoice Number: 12708/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:01 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000228/4/10/07/2019&&InvoiceNumber=12709/INV/JKS/06/2020&&StrEndPeriod=20200602&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:02 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 21 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:02 AM Friday, June 5, 2020
+  :
+  :Invoice 12709/INV/JKS/06/2020 Invoice Number: 12709/INV/JKS/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:02 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000233/4/10/07/2019&&InvoiceNumber=12710/INV/JKS/06/2020&&StrEndPeriod=20200602&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:02 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 22 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:02 AM Friday, June 5, 2020
+  :
+  :Invoice 12710/INV/JKS/06/2020 Invoice Number: 12710/INV/JKS/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:02 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000261/4/08/06/2019&&InvoiceNumber=12711/INV/JKN/06/2020&&StrEndPeriod=20200602&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:03 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 23 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:03 AM Friday, June 5, 2020
+  :
+  :Invoice 12711/INV/JKN/06/2020 Invoice Number: 12711/INV/JKN/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:03 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000262/4/08/06/2019&&InvoiceNumber=12712/INV/JKN/06/2020&&StrEndPeriod=20200602&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:03 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 24 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:03 AM Friday, June 5, 2020
+  :
+  :Invoice 12712/INV/JKN/06/2020 Invoice Number: 12712/INV/JKN/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:03 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000340/4/01/09/2019&&InvoiceNumber=12713/INV/JKC/06/2020&&StrEndPeriod=20200602&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:04 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 25 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:04 AM Friday, June 5, 2020
+  :
+  :Invoice 12713/INV/JKC/06/2020 Invoice Number: 12713/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:04 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000341/4/01/09/2019&&InvoiceNumber=12714/INV/JKC/06/2020&&StrEndPeriod=20200602&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:04 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 26 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:04 AM Friday, June 5, 2020
+  :
+  :Invoice 12714/INV/JKC/06/2020 Invoice Number: 12714/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:04 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000436/4/01/01/2020&&InvoiceNumber=12715/INV/JKC/06/2020&&StrEndPeriod=20200602&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:04 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 27 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:04 AM Friday, June 5, 2020
+  :
+  :Invoice 12715/INV/JKC/06/2020 Invoice Number: 12715/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:04 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000452/4/01/03/2020&&InvoiceNumber=12716/INV/JKC/06/2020&&StrEndPeriod=20200602&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:05 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 28 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:05 AM Friday, June 5, 2020
+  :
+  :Invoice 12716/INV/JKC/06/2020 Invoice Number: 12716/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:05 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000455/4/01/03/2020&&InvoiceNumber=12717/INV/JKC/06/2020&&StrEndPeriod=20200602&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:05 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 29 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:05 AM Friday, June 5, 2020
+  :
+  :Invoice 12717/INV/JKC/06/2020 Invoice Number: 12717/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:05 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000001/4/26/11/2016&&InvoiceNumber=12718/INV/MLG/06/2020&&StrEndPeriod=20200603&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:06 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 30 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:06 AM Friday, June 5, 2020
+  :
+  :Invoice 12718/INV/MLG/06/2020 Invoice Number: 12718/INV/MLG/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:06 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000004/4/03/09/2015&&InvoiceNumber=12719/INV/SBY/06/2020&&StrEndPeriod=20200603&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:07 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 31 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:07 AM Friday, June 5, 2020
+  :
+  :Invoice 12719/INV/SBY/06/2020 Invoice Number: 12719/INV/SBY/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:07 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000019/4/03/04/2020&&InvoiceNumber=12720/INV/SBY/06/2020&&StrEndPeriod=20200603&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:08 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 32 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:08 AM Friday, June 5, 2020
+  :
+  :Invoice 12720/INV/SBY/06/2020 Invoice Number: 12720/INV/SBY/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:08 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000092/4/01/05/2015&&InvoiceNumber=12721/INV/JKC/06/2020&&StrEndPeriod=20200603&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:09 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 33 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:09 AM Friday, June 5, 2020
+  :
+  :Invoice 12721/INV/JKC/06/2020 Invoice Number: 12721/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:09 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000135/4/10/04/2016&&InvoiceNumber=12722/INV/JKS/06/2020&&StrEndPeriod=20200603&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:09 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 34 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:09 AM Friday, June 5, 2020
+  :
+  :Invoice 12722/INV/JKS/06/2020 Invoice Number: 12722/INV/JKS/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:09 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000156/4/01/04/2016&&InvoiceNumber=12723/INV/JKC/06/2020&&StrEndPeriod=20200603&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:10 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 35 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:10 AM Friday, June 5, 2020
+  :
+  :Invoice 12723/INV/JKC/06/2020 Invoice Number: 12723/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:10 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000192/4/10/04/2018&&InvoiceNumber=12724/INV/JKS/06/2020&&StrEndPeriod=20200603&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:11 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 36 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:11 AM Friday, June 5, 2020
+  :
+  :Invoice 12724/INV/JKS/06/2020 Invoice Number: 12724/INV/JKS/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:11 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000193/4/10/04/2018&&InvoiceNumber=12725/INV/JKS/06/2020&&StrEndPeriod=20200603&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:12 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 37 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:12 AM Friday, June 5, 2020
+  :
+  :Invoice 12725/INV/JKS/06/2020 Invoice Number: 12725/INV/JKS/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:12 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000226/4/10/07/2019&&InvoiceNumber=12726/INV/JKS/06/2020&&StrEndPeriod=20200603&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:13 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 38 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:13 AM Friday, June 5, 2020
+  :
+  :Invoice 12726/INV/JKS/06/2020 Invoice Number: 12726/INV/JKS/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:13 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000229/4/10/07/2019&&InvoiceNumber=12727/INV/JKS/06/2020&&StrEndPeriod=20200603&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:13 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 39 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:13 AM Friday, June 5, 2020
+  :
+  :Invoice 12727/INV/JKS/06/2020 Invoice Number: 12727/INV/JKS/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:13 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000241/4/01/07/2018&&InvoiceNumber=12728/INV/JKC/06/2020&&StrEndPeriod=20200603&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:14 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 40 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:14 AM Friday, June 5, 2020
+  :
+  :Invoice 12728/INV/JKC/06/2020 Invoice Number: 12728/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:14 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000281/4/08/09/2019&&InvoiceNumber=12729/INV/JKN/06/2020&&StrEndPeriod=20200603&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:14 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 41 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:14 AM Friday, June 5, 2020
+  :
+  :Invoice 12729/INV/JKN/06/2020 Invoice Number: 12729/INV/JKN/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:14 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000304/4/08/04/2020&&InvoiceNumber=12730/INV/JKN/06/2020&&StrEndPeriod=20200603&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:15 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 42 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:15 AM Friday, June 5, 2020
+  :
+  :Invoice 12730/INV/JKN/06/2020 Invoice Number: 12730/INV/JKN/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:15 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000391/4/01/12/2019&&InvoiceNumber=12731/INV/JKC/06/2020&&StrEndPeriod=20200603&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:16 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 43 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:16 AM Friday, June 5, 2020
+  :
+  :Invoice 12731/INV/JKC/06/2020 Invoice Number: 12731/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:16 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000408/4/01/01/2020&&InvoiceNumber=12732/INV/JKC/06/2020&&StrEndPeriod=20200603&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:16 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 44 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:16 AM Friday, June 5, 2020
+  :
+  :Invoice 12732/INV/JKC/06/2020 Invoice Number: 12732/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:16 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000413/4/01/12/2019&&InvoiceNumber=12733/INV/JKC/06/2020&&StrEndPeriod=20200603&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:17 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 45 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:17 AM Friday, June 5, 2020
+  :
+  :Invoice 12733/INV/JKC/06/2020 Invoice Number: 12733/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:17 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000416/4/01/01/2020&&InvoiceNumber=12734/INV/JKC/06/2020&&StrEndPeriod=20200603&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:17 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 46 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:17 AM Friday, June 5, 2020
+  :
+  :Invoice 12734/INV/JKC/06/2020 Invoice Number: 12734/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:17 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000002/4/26/11/2016&&InvoiceNumber=12735/INV/MLG/06/2020&&StrEndPeriod=20200604&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:18 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 47 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:18 AM Friday, June 5, 2020
+  :
+  :Invoice 12735/INV/MLG/06/2020 Invoice Number: 12735/INV/MLG/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:18 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000014/4/17/11/2016&&InvoiceNumber=12736/INV/MKS/06/2020&&StrEndPeriod=20200604&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:19 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 48 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:19 AM Friday, June 5, 2020
+  :
+  :Invoice 12736/INV/MKS/06/2020 Invoice Number: 12736/INV/MKS/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:19 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000015/4/06/05/2020&&InvoiceNumber=12737/INV/SMG/06/2020&&StrEndPeriod=20200604&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:19 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 49 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:19 AM Friday, June 5, 2020
+  :
+  :Invoice 12737/INV/SMG/06/2020 Invoice Number: 12737/INV/SMG/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:19 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000015/4/17/11/2016&&InvoiceNumber=12738/INV/MKS/06/2020&&StrEndPeriod=20200604&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:20 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 50 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:20 AM Friday, June 5, 2020
+  :
+  :Invoice 12738/INV/MKS/06/2020 Invoice Number: 12738/INV/MKS/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:20 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000016/4/06/05/2020&&InvoiceNumber=12739/INV/SMG/06/2020&&StrEndPeriod=20200604&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:21 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 51 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:21 AM Friday, June 5, 2020
+  :
+  :Invoice 12739/INV/SMG/06/2020 Invoice Number: 12739/INV/SMG/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:21 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000017/4/06/05/2020&&InvoiceNumber=12740/INV/SMG/06/2020&&StrEndPeriod=20200604&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:21 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 52 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:21 AM Friday, June 5, 2020
+  :
+  :Invoice 12740/INV/SMG/06/2020 Invoice Number: 12740/INV/SMG/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:21 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000027/4/12/11/2016&&InvoiceNumber=12741/INV/PLB/06/2020&&StrEndPeriod=20200604&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:22 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 53 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:22 AM Friday, June 5, 2020
+  :
+  :Invoice 12741/INV/PLB/06/2020 Invoice Number: 12741/INV/PLB/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:22 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000159/4/01/04/2016&&InvoiceNumber=12742/INV/JKC/06/2020&&StrEndPeriod=20200604&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:23 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 54 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:23 AM Friday, June 5, 2020
+  :
+  :Invoice 12742/INV/JKC/06/2020 Invoice Number: 12742/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:23 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000169/4/08/07/2017&&InvoiceNumber=12743/INV/JKN/06/2020&&StrEndPeriod=20200604&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:24 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 55 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:24 AM Friday, June 5, 2020
+  :
+  :Invoice 12743/INV/JKN/06/2020 Invoice Number: 12743/INV/JKN/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:24 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000174/4/10/06/2016&&InvoiceNumber=12744/INV/JKS/06/2020&&StrEndPeriod=20200604&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:25 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 56 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:25 AM Friday, June 5, 2020
+  :
+  :Invoice 12744/INV/JKS/06/2020 Invoice Number: 12744/INV/JKS/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:25 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000180/4/08/07/2017&&InvoiceNumber=12745/INV/JKN/06/2020&&StrEndPeriod=20200604&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:25 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 57 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:25 AM Friday, June 5, 2020
+  :
+  :Invoice 12745/INV/JKN/06/2020 Invoice Number: 12745/INV/JKN/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:25 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000303/4/10/12/2019&&InvoiceNumber=12746/INV/JKS/06/2020&&StrEndPeriod=20200604&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:26 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 58 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:26 AM Friday, June 5, 2020
+  :
+  :Invoice 12746/INV/JKS/06/2020 Invoice Number: 12746/INV/JKS/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:26 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000362/4/01/10/2019&&InvoiceNumber=12747/INV/JKC/06/2020&&StrEndPeriod=20200604&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:26 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 59 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:26 AM Friday, June 5, 2020
+  :
+  :Invoice 12747/INV/JKC/06/2020 Invoice Number: 12747/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:26 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000375/4/01/11/2019&&InvoiceNumber=12748/INV/JKC/06/2020&&StrEndPeriod=20200604&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:26 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 60 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:26 AM Friday, June 5, 2020
+  :
+  :Invoice 12748/INV/JKC/06/2020 Invoice Number: 12748/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:26 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000449/4/01/03/2020&&InvoiceNumber=12749/INV/JKC/06/2020&&StrEndPeriod=20200604&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:26 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 61 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:26 AM Friday, June 5, 2020
+  :
+  :Invoice 12749/INV/JKC/06/2020 Invoice Number: 12749/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:26 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000457/4/01/03/2020&&InvoiceNumber=12750/INV/JKC/06/2020&&StrEndPeriod=20200604&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:27 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 62 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:27 AM Friday, June 5, 2020
+  :
+  :Invoice 12750/INV/JKC/06/2020 Invoice Number: 12750/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:27 AM Friday, June 5, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000463/4/01/04/2020&&InvoiceNumber=12751/INV/JKC/06/2020&&StrEndPeriod=20200604&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:47:27 AM Friday, June 5, 2020
+  :
+  :Berhasil memproses 63 data dari 63 baris
+-------------------------------
+
+Log Entry : 8:47:27 AM Friday, June 5, 2020
+  :
+  :Invoice 12751/INV/JKC/06/2020 Invoice Number: 12751/INV/JKC/06/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:47:27 AM Friday, June 5, 2020
+  :
+  :Total baris diproses ada 63
+-------------------------------

@@ -1,0 +1,30 @@
+
+Log Entry : 8:10:25 AM Thursday, May 14, 2020
+  :
+  :Sinkronisasi mulai berjalan
+-------------------------------
+
+Log Entry : 8:10:26 AM Thursday, May 14, 2020
+  :
+  :Total row akan diproses sebanyak: 1 baris
+-------------------------------
+
+Log Entry : 8:10:26 AM Thursday, May 14, 2020
+  :
+  :Alamat sync = http://192.168.140.21/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000285/4/01/05/2019&&InvoiceNumber=12355/INV/JKC/05/2020&&StrEndPeriod=20200524&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 8:10:27 AM Thursday, May 14, 2020
+  :
+  :Berhasil memproses 1 data dari 1 baris
+-------------------------------
+
+Log Entry : 8:10:27 AM Thursday, May 14, 2020
+  :
+  :Invoice 12355/INV/JKC/05/2020 Invoice Number: 12355/INV/JKC/05/2020 has been successfully saved
+-------------------------------
+
+Log Entry : 8:10:27 AM Thursday, May 14, 2020
+  :
+  :Total baris diproses ada 1
+-------------------------------

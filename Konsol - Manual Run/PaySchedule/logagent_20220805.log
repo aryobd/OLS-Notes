@@ -1,0 +1,68 @@
+
+Log Entry : 9:06:16 AM Friday, August 5, 2022
+  :
+  :Sinkronisasi mulai berjalan
+-------------------------------
+
+Log Entry : 9:06:17 AM Friday, August 5, 2022
+  :
+  :Total row akan diproses sebanyak: 17 baris
+-------------------------------
+
+Log Entry : 9:06:17 AM Friday, August 5, 2022
+  :
+  :Error: Column 'IdTb_BIL_PaySchedule' does not belong to table .; Stack Trace:   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at OLSSSyncFromMFAPPL_Scheduler.Program.Main(String[] args)
+-------------------------------
+
+Log Entry : 3:10:02 PM Friday, August 5, 2022
+  :
+  :Sinkronisasi mulai berjalan
+-------------------------------
+
+Log Entry : 3:10:02 PM Friday, August 5, 2022
+  :
+  :Total row akan diproses sebanyak: 13 baris
+-------------------------------
+
+Log Entry : 3:10:02 PM Friday, August 5, 2022
+  :
+  :Error: Column 'IdTb_BIL_PaySchedule' does not belong to table .; Stack Trace:   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at OLSSSyncFromMFAPPL_Scheduler.Program.Main(String[] args)
+-------------------------------
+
+Log Entry : 5:03:39 PM Friday, August 5, 2022
+  :
+  :Sinkronisasi mulai berjalan
+-------------------------------
+
+Log Entry : 5:03:41 PM Friday, August 5, 2022
+  :
+  :Total row akan diproses sebanyak: 8 baris
+-------------------------------
+
+Log Entry : 5:03:41 PM Friday, August 5, 2022
+  :
+  :Error: Column 'IdTb_BIL_PaySchedule' does not belong to table .; Stack Trace:   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at OLSSSyncFromMFAPPL_Scheduler.Program.Main(String[] args)
+-------------------------------
+
+Log Entry : 5:05:59 PM Friday, August 5, 2022
+  :
+  :Sinkronisasi mulai berjalan
+-------------------------------
+
+Log Entry : 5:05:59 PM Friday, August 5, 2022
+  :
+  :Total row akan diproses sebanyak: 8 baris
+-------------------------------
+
+Log Entry : 5:05:59 PM Friday, August 5, 2022
+  :
+  :Error: Column 'IdTb_BIL_PaySchedule' does not belong to table .; Stack Trace:   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at OLSSSyncFromMFAPPL_Scheduler.Program.Main(String[] args)
+-------------------------------

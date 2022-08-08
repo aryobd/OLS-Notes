@@ -1,0 +1,762 @@
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Sinkronisasi mulai berjalan
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Total row akan diproses sebanyak: 12 baris
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000145/4/04/04/2022&&InvoiceNumber=34477/INV/BDG/06/2022&&StrEndPeriod=20220623&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000145/4/04/04/2022&&InvoiceNumber=34477/INV/BDG/06/2022&&StrEndPeriod=20220623&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000145/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000140/4/04/04/2022&&InvoiceNumber=34478/INV/BDG/06/2022&&StrEndPeriod=20220613&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000140/4/04/04/2022&&InvoiceNumber=34478/INV/BDG/06/2022&&StrEndPeriod=20220613&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000140/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000150/4/04/04/2022&&InvoiceNumber=35717/INV/BDG/06/2022&&StrEndPeriod=20220608&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000150/4/04/04/2022&&InvoiceNumber=35717/INV/BDG/06/2022&&StrEndPeriod=20220608&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000150/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000150/4/04/04/2022&&InvoiceNumber=35718/INV/BDG/07/2022&&StrEndPeriod=20220708&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000150/4/04/04/2022&&InvoiceNumber=35718/INV/BDG/07/2022&&StrEndPeriod=20220708&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000150/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000138/4/04/04/2022&&InvoiceNumber=34086/INV/BDG/06/2022&&StrEndPeriod=20220627&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000138/4/04/04/2022&&InvoiceNumber=34086/INV/BDG/06/2022&&StrEndPeriod=20220627&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000138/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000141/4/04/04/2022&&InvoiceNumber=34479/INV/BDG/05/2022&&StrEndPeriod=20220526&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000141/4/04/04/2022&&InvoiceNumber=34479/INV/BDG/05/2022&&StrEndPeriod=20220526&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000141/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000141/4/04/04/2022&&InvoiceNumber=34480/INV/BDG/06/2022&&StrEndPeriod=20220626&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000141/4/04/04/2022&&InvoiceNumber=34480/INV/BDG/06/2022&&StrEndPeriod=20220626&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000141/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000144/4/04/04/2022&&InvoiceNumber=34482/INV/BDG/06/2022&&StrEndPeriod=20220621&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000144/4/04/04/2022&&InvoiceNumber=34482/INV/BDG/06/2022&&StrEndPeriod=20220621&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000144/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000134/4/04/04/2022&&InvoiceNumber=32264/INV/BDG/05/2022&&StrEndPeriod=20220513&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000134/4/04/04/2022&&InvoiceNumber=32264/INV/BDG/05/2022&&StrEndPeriod=20220513&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Sequence contains more than one element, StackTrace:    at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source)
+   at System.Linq.Queryable.SingleOrDefault[TSource](IQueryable`1 source)
+   at Dsf.Olss.Service.CollectionService.BILScheduleService.GetBilPaymentScheduleDetailsByIdPayScheduleEndPeriod(Int32 idTb_Bil_PaymentSchedule, DateTime EndPeriod)
+   at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000139/4/04/04/2022&&InvoiceNumber=34087/INV/BDG/06/2022&&StrEndPeriod=20220627&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000139/4/04/04/2022&&InvoiceNumber=34087/INV/BDG/06/2022&&StrEndPeriod=20220627&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000139/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000146/4/04/04/2022&&InvoiceNumber=34948/INV/BDG/05/2022&&StrEndPeriod=20220526&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000146/4/04/04/2022&&InvoiceNumber=34948/INV/BDG/05/2022&&StrEndPeriod=20220526&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000146/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000146/4/04/04/2022&&InvoiceNumber=34949/INV/BDG/06/2022&&StrEndPeriod=20220626&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000146/4/04/04/2022&&InvoiceNumber=34949/INV/BDG/06/2022&&StrEndPeriod=20220626&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000146/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:31:04 AM Wednesday, August 3, 2022
+  :
+  :Total baris diproses ada 0
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Sinkronisasi mulai berjalan
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Total row akan diproses sebanyak: 22 baris
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000145/4/04/04/2022&&InvoiceNumber=34477/INV/BDG/06/2022&&StrEndPeriod=20220623&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000145/4/04/04/2022&&InvoiceNumber=34477/INV/BDG/06/2022&&StrEndPeriod=20220623&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000145/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000140/4/04/04/2022&&InvoiceNumber=34478/INV/BDG/06/2022&&StrEndPeriod=20220613&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000140/4/04/04/2022&&InvoiceNumber=34478/INV/BDG/06/2022&&StrEndPeriod=20220613&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000140/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000142/4/04/04/2022&&InvoiceNumber=35033/INV/BDG/07/2022&&StrEndPeriod=20220717&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000142/4/04/04/2022&&InvoiceNumber=35033/INV/BDG/07/2022&&StrEndPeriod=20220717&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000142/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000145/4/04/04/2022&&InvoiceNumber=35203/INV/BDG/07/2022&&StrEndPeriod=20220723&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000145/4/04/04/2022&&InvoiceNumber=35203/INV/BDG/07/2022&&StrEndPeriod=20220723&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000145/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000150/4/04/04/2022&&InvoiceNumber=35717/INV/BDG/06/2022&&StrEndPeriod=20220608&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000150/4/04/04/2022&&InvoiceNumber=35717/INV/BDG/06/2022&&StrEndPeriod=20220608&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000150/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000150/4/04/04/2022&&InvoiceNumber=35718/INV/BDG/07/2022&&StrEndPeriod=20220708&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000150/4/04/04/2022&&InvoiceNumber=35718/INV/BDG/07/2022&&StrEndPeriod=20220708&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000150/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000138/4/04/04/2022&&InvoiceNumber=34086/INV/BDG/06/2022&&StrEndPeriod=20220627&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000138/4/04/04/2022&&InvoiceNumber=34086/INV/BDG/06/2022&&StrEndPeriod=20220627&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000138/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000134/4/04/04/2022&&InvoiceNumber=34882/INV/BDG/07/2022&&StrEndPeriod=20220713&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000134/4/04/04/2022&&InvoiceNumber=34882/INV/BDG/07/2022&&StrEndPeriod=20220713&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Sequence contains more than one element, StackTrace:    at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source)
+   at System.Linq.Queryable.SingleOrDefault[TSource](IQueryable`1 source)
+   at Dsf.Olss.Service.CollectionService.BILScheduleService.GetBilPaymentScheduleDetailsByIdPayScheduleEndPeriod(Int32 idTb_Bil_PaymentSchedule, DateTime EndPeriod)
+   at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000140/4/04/04/2022&&InvoiceNumber=34884/INV/BDG/07/2022&&StrEndPeriod=20220713&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000140/4/04/04/2022&&InvoiceNumber=34884/INV/BDG/07/2022&&StrEndPeriod=20220713&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000140/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000144/4/04/04/2022&&InvoiceNumber=35145/INV/BDG/07/2022&&StrEndPeriod=20220721&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000144/4/04/04/2022&&InvoiceNumber=35145/INV/BDG/07/2022&&StrEndPeriod=20220721&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000144/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000141/4/04/04/2022&&InvoiceNumber=34479/INV/BDG/05/2022&&StrEndPeriod=20220526&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000141/4/04/04/2022&&InvoiceNumber=34479/INV/BDG/05/2022&&StrEndPeriod=20220526&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000141/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000141/4/04/04/2022&&InvoiceNumber=34480/INV/BDG/06/2022&&StrEndPeriod=20220626&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000141/4/04/04/2022&&InvoiceNumber=34480/INV/BDG/06/2022&&StrEndPeriod=20220626&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000141/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000144/4/04/04/2022&&InvoiceNumber=34482/INV/BDG/06/2022&&StrEndPeriod=20220621&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000144/4/04/04/2022&&InvoiceNumber=34482/INV/BDG/06/2022&&StrEndPeriod=20220621&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000144/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000134/4/04/04/2022&&InvoiceNumber=32264/INV/BDG/05/2022&&StrEndPeriod=20220513&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000134/4/04/04/2022&&InvoiceNumber=32264/INV/BDG/05/2022&&StrEndPeriod=20220513&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Sequence contains more than one element, StackTrace:    at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source)
+   at System.Linq.Queryable.SingleOrDefault[TSource](IQueryable`1 source)
+   at Dsf.Olss.Service.CollectionService.BILScheduleService.GetBilPaymentScheduleDetailsByIdPayScheduleEndPeriod(Int32 idTb_Bil_PaymentSchedule, DateTime EndPeriod)
+   at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000141/4/04/04/2022&&InvoiceNumber=35303/INV/BDG/07/2022&&StrEndPeriod=20220726&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000141/4/04/04/2022&&InvoiceNumber=35303/INV/BDG/07/2022&&StrEndPeriod=20220726&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000141/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000146/4/04/04/2022&&InvoiceNumber=35304/INV/BDG/07/2022&&StrEndPeriod=20220726&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000146/4/04/04/2022&&InvoiceNumber=35304/INV/BDG/07/2022&&StrEndPeriod=20220726&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000146/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000138/4/04/04/2022&&InvoiceNumber=35351/INV/BDG/07/2022&&StrEndPeriod=20220727&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000138/4/04/04/2022&&InvoiceNumber=35351/INV/BDG/07/2022&&StrEndPeriod=20220727&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000138/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000139/4/04/04/2022&&InvoiceNumber=35352/INV/BDG/07/2022&&StrEndPeriod=20220727&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000139/4/04/04/2022&&InvoiceNumber=35352/INV/BDG/07/2022&&StrEndPeriod=20220727&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000139/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000139/4/04/04/2022&&InvoiceNumber=34087/INV/BDG/06/2022&&StrEndPeriod=20220627&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000139/4/04/04/2022&&InvoiceNumber=34087/INV/BDG/06/2022&&StrEndPeriod=20220627&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000139/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000146/4/04/04/2022&&InvoiceNumber=34948/INV/BDG/05/2022&&StrEndPeriod=20220526&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000146/4/04/04/2022&&InvoiceNumber=34948/INV/BDG/05/2022&&StrEndPeriod=20220526&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000146/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000146/4/04/04/2022&&InvoiceNumber=34949/INV/BDG/06/2022&&StrEndPeriod=20220626&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000146/4/04/04/2022&&InvoiceNumber=34949/INV/BDG/06/2022&&StrEndPeriod=20220626&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000146/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 11:37:19 AM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000143/4/04/04/2022&&InvoiceNumber=35061/INV/BDG/07/2022&&StrEndPeriod=20220718&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 11:37:20 AM Wednesday, August 3, 2022
+  :
+  :Berhasil memproses 1 data dari 22 baris
+-------------------------------
+
+Log Entry : 11:37:20 AM Wednesday, August 3, 2022
+  :
+  :Invoice 35061/INV/BDG/07/2022 Invoice Number: 35061/INV/BDG/07/2022 has been successfully saved
+-------------------------------
+
+Log Entry : 11:37:20 AM Wednesday, August 3, 2022
+  :
+  :Total baris diproses ada 1
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Sinkronisasi mulai berjalan
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Total row akan diproses sebanyak: 13 baris
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000145/4/04/04/2022&&InvoiceNumber=34477/INV/BDG/06/2022&&StrEndPeriod=20220623&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000145/4/04/04/2022&&InvoiceNumber=34477/INV/BDG/06/2022&&StrEndPeriod=20220623&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000145/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000140/4/04/04/2022&&InvoiceNumber=34478/INV/BDG/06/2022&&StrEndPeriod=20220613&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000140/4/04/04/2022&&InvoiceNumber=34478/INV/BDG/06/2022&&StrEndPeriod=20220613&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000140/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000150/4/04/04/2022&&InvoiceNumber=35717/INV/BDG/06/2022&&StrEndPeriod=20220608&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000150/4/04/04/2022&&InvoiceNumber=35717/INV/BDG/06/2022&&StrEndPeriod=20220608&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000150/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000150/4/04/04/2022&&InvoiceNumber=35718/INV/BDG/07/2022&&StrEndPeriod=20220708&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000150/4/04/04/2022&&InvoiceNumber=35718/INV/BDG/07/2022&&StrEndPeriod=20220708&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000150/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000819/4/01/07/2021&&InvoiceNumber=28588/INV/JKC/08/2022&&StrEndPeriod=20220822&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Berhasil memproses 1 data dari 13 baris
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Invoice 28588/INV/JKC/08/2022 Invoice Number: 28588/INV/JKC/08/2022 has been successfully saved
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000138/4/04/04/2022&&InvoiceNumber=34086/INV/BDG/06/2022&&StrEndPeriod=20220627&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000138/4/04/04/2022&&InvoiceNumber=34086/INV/BDG/06/2022&&StrEndPeriod=20220627&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000138/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000141/4/04/04/2022&&InvoiceNumber=34479/INV/BDG/05/2022&&StrEndPeriod=20220526&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000141/4/04/04/2022&&InvoiceNumber=34479/INV/BDG/05/2022&&StrEndPeriod=20220526&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000141/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000141/4/04/04/2022&&InvoiceNumber=34480/INV/BDG/06/2022&&StrEndPeriod=20220626&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000141/4/04/04/2022&&InvoiceNumber=34480/INV/BDG/06/2022&&StrEndPeriod=20220626&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000141/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000144/4/04/04/2022&&InvoiceNumber=34482/INV/BDG/06/2022&&StrEndPeriod=20220621&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000144/4/04/04/2022&&InvoiceNumber=34482/INV/BDG/06/2022&&StrEndPeriod=20220621&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000144/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000134/4/04/04/2022&&InvoiceNumber=32264/INV/BDG/05/2022&&StrEndPeriod=20220513&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000134/4/04/04/2022&&InvoiceNumber=32264/INV/BDG/05/2022&&StrEndPeriod=20220513&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error proses : Sequence contains more than one element, StackTrace:    at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source)
+   at System.Linq.Queryable.SingleOrDefault[TSource](IQueryable`1 source)
+   at Dsf.Olss.Service.CollectionService.BILScheduleService.GetBilPaymentScheduleDetailsByIdPayScheduleEndPeriod(Int32 idTb_Bil_PaymentSchedule, DateTime EndPeriod)
+   at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000139/4/04/04/2022&&InvoiceNumber=34087/INV/BDG/06/2022&&StrEndPeriod=20220627&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000139/4/04/04/2022&&InvoiceNumber=34087/INV/BDG/06/2022&&StrEndPeriod=20220627&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000139/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000146/4/04/04/2022&&InvoiceNumber=34948/INV/BDG/05/2022&&StrEndPeriod=20220526&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000146/4/04/04/2022&&InvoiceNumber=34948/INV/BDG/05/2022&&StrEndPeriod=20220526&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000146/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Alamat sync = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000146/4/04/04/2022&&InvoiceNumber=34949/INV/BDG/06/2022&&StrEndPeriod=20220626&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error saat proses url = http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI?AgreementNumber=0000146/4/04/04/2022&&InvoiceNumber=34949/INV/BDG/06/2022&&StrEndPeriod=20220626&&ActionBy=Migrasi&&ActionBybranchId=1&&
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Error proses : Agreement '0000146/4/04/04/2022' doesn't exist in master Agreement, StackTrace:    at Dsf.Olss.Controllers.MGTInvoiceIntegrationController.GetToOLSSAPI(String AgreementNumber, String InvoiceNumber, String StrEndPeriod, String ActionBy, Int32 ActionBybranchId)
+-------------------------------
+
+Log Entry : 1:25:29 PM Wednesday, August 3, 2022
+  :
+  :Total baris diproses ada 1
+-------------------------------
