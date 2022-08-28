@@ -1,15 +1,19 @@
 ﻿<MyConfig>
 
-<EndPointGrid>http://localhost/olss2/MGTInvoiceIntegration/AjaxHandlerAPI</EndPointGrid>
-<EndPointSync>http://localhost/olss2/MGTInvoiceIntegration/GetToOLSSAPI</EndPointSync>
+<!--
+<EndPointGrid>http://172.30.2.11/olss2/MGTInvoiceIntegration/AjaxHandlerAPI</EndPointGrid>
+<EndPointSync>http://172.30.2.11/olss2/MGTInvoiceIntegration/GetToOLSSAPI</EndPointSync>
+-->
+<EndPointGrid>http://172.30.2.11/olss2/MGTIntegrationPaySchdl/AjaxHandlerAPI</EndPointGrid>
+<EndPointSync>http://172.30.2.11/olss2/MGTIntegrationPaySchdl/AjaxHandlerAPI</EndPointSync>
 <KeyField>IdTb_BIL_PaySchedule</KeyField>
 <QueryString></QueryString>
 
-<StartDate>20220714</StartDate>
-<EndDate>20220714</EndDate>
+<StartDate>20220512</StartDate>
+<EndDate>20220711</EndDate>
   
 <NeedProxy>0</NeedProxy>
 <ProxyAddress>http://172.17.240.83:9090</ProxyAddress>
-<ProxyUser>bsi90149</ProxyUser>
+<ProxyUser>bsi00832</ProxyUser>
 <ProxyPassword>lw8gd3LkJmcchKtpU0cV8dM87x/kaXlz60RZG0aLLaG6TeIdvTd+Mp8fVe0jIXB2IYB4ZJTZ3qdOIVFiH4JoEnj3zvQuCbnjskZ8V5RQE/AjyU+ItMlIF/VslCCpdQq1</ProxyPassword>
 </MyConfig>
