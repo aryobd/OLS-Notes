@@ -9,8 +9,8 @@
 <KeyField>IdTb_BIL_PaySchedule</KeyField>
 <QueryString></QueryString>
 
-<StartDate>20220512</StartDate>
-<EndDate>20220711</EndDate>
+<StartDate>20220816</StartDate>
+<EndDate>20220816</EndDate>
   
 <NeedProxy>0</NeedProxy>
 <ProxyAddress>http://172.17.240.83:9090</ProxyAddress>
