@@ -1,12 +1,16 @@
 ﻿<MyConfig>
 
+<!--
 <EndPointGrid>http://172.30.2.11/olss2/MGTInvoiceIntegration/AjaxHandlerAPI</EndPointGrid>
 <EndPointSync>http://172.30.2.11/olss2/MGTInvoiceIntegration/GetToOLSSAPI</EndPointSync>
+-->
+<EndPointGrid>http://dc-olssweb.corp.dipostar.com/olss2/MGTInvoiceIntegration/AjaxHandlerAPI</EndPointGrid>
+<EndPointSync>http://dc-olssweb.corp.dipostar.com/olss2/MGTInvoiceIntegration/GetToOLSSAPI</EndPointSync>
 <KeyField>AgreementNumber,InvoiceNoInstallment,StrEndPeriod,~Migrasi,~1</KeyField>
 <QueryString>AgreementNumber,InvoiceNumber,StrEndPeriod,ActionBy,ActionBybranchId</QueryString>
 
-<StartDate>20220820</StartDate>
-<EndDate>20220930</EndDate>
+<StartDate>20220906</StartDate>
+<EndDate>20221006</EndDate>
   
 <NeedProxy>0</NeedProxy>
 <ProxyAddress>http://172.17.240.83:9090</ProxyAddress>
