@@ -10,9 +10,9 @@
 <KeyField>AgreementNumber,InvoiceNoInstallment,StrEndPeriod,~Migrasi,~1</KeyField>
 <QueryString>AgreementNumber,InvoiceNumber,StrEndPeriod,ActionBy,ActionBybranchId</QueryString>
 
-<StartDate>20221029</StartDate>
-<EndDate>20221128</EndDate>
-  
+<StartDate>20230328</StartDate>
+<EndDate>20230331</EndDate>
+
 <NeedProxy>0</NeedProxy>
 <ProxyAddress>http://172.17.240.83:9090</ProxyAddress>
 <ProxyUser>bsi90149</ProxyUser>
