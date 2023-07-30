@@ -6,11 +6,12 @@
 -->
 <EndPointGrid>http://dc-olssweb.corp.dipostar.com/olss2/MGTIntegrationPaySchdl/AjaxHandlerAPI</EndPointGrid>
 <EndPointSync>http://dc-olssweb.corp.dipostar.com/olss2/MGTIntegrationPaySchdl/GetToOLSSAPI</EndPointSync>
+
 <KeyField>IdTb_BIL_PaySchedule</KeyField>
 <QueryString></QueryString>
 
-<StartDate>20230228</StartDate>
-<EndDate>20230228</EndDate>
+<StartDate>20230723</StartDate>
+<EndDate>20270623</EndDate>
   
 <NeedProxy>0</NeedProxy>
 <ProxyAddress>http://172.17.240.83:9090</ProxyAddress>
