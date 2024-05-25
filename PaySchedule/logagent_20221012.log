@@ -1,0 +1,47 @@
+
+Log Entry : 11:33:36 Wednesday, October 12, 2022
+  :
+  :Sinkronisasi mulai berjalan
+-------------------------------
+
+Log Entry : 11:33:40 Wednesday, October 12, 2022
+  :
+  :Total row akan diproses sebanyak: 2 baris
+-------------------------------
+
+Log Entry : 11:33:40 Wednesday, October 12, 2022
+  :
+  :Alamat sync = http://dc-olssweb.corp.dipostar.com/olss2/MGTIntegrationPaySchdl/GetToOLSSAPI/9000485
+-------------------------------
+
+Log Entry : 11:33:41 Wednesday, October 12, 2022
+  :
+  :Berhasil memproses 1 data dari 2 baris
+-------------------------------
+
+Log Entry : 11:33:41 Wednesday, October 12, 2022
+  :
+  :Schedule for Agreement 0000017/4/34/08/2022 Has been updated
+-------------------------------
+
+Log Entry : 11:33:41 Wednesday, October 12, 2022
+  :
+  :Alamat sync = http://dc-olssweb.corp.dipostar.com/olss2/MGTIntegrationPaySchdl/GetToOLSSAPI/9000488
+-------------------------------
+
+Log Entry : 11:33:41 Wednesday, October 12, 2022
+  :
+  :Error saat proses url = http://dc-olssweb.corp.dipostar.com/olss2/MGTIntegrationPaySchdl/GetToOLSSAPI/9000488
+-------------------------------
+
+Log Entry : 11:33:41 Wednesday, October 12, 2022
+  :
+  :Error proses : String was not recognized as a valid DateTime., StackTrace:    at System.DateTime.Parse(String s)
+   at Dsf.Olss.Controllers.MGTIntegrationPaySchdlController.getBilPayScheduleViewModel(Int32 Id)
+   at Dsf.Olss.Controllers.MGTIntegrationPaySchdlController.GetToOLSSAPI(Int32 id)
+-------------------------------
+
+Log Entry : 11:33:41 Wednesday, October 12, 2022
+  :
+  :Total baris diproses ada 1
+-------------------------------

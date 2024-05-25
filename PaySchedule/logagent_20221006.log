@@ -1,0 +1,77 @@
+
+Log Entry : 09:54:09 Thursday, October 6, 2022
+  :
+  :Sinkronisasi mulai berjalan
+-------------------------------
+
+Log Entry : 09:54:09 Thursday, October 6, 2022
+  :
+  :Total row akan diproses sebanyak: 3 baris
+-------------------------------
+
+Log Entry : 09:54:09 Thursday, October 6, 2022
+  :
+  :Alamat sync = http://dc-olssweb.corp.dipostar.com/olss2/MGTIntegrationPaySchdl/GetToOLSSAPI/9000485
+-------------------------------
+
+Log Entry : 09:54:10 Thursday, October 6, 2022
+  :
+  :Error saat proses url = http://dc-olssweb.corp.dipostar.com/olss2/MGTIntegrationPaySchdl/GetToOLSSAPI/9000485
+-------------------------------
+
+Log Entry : 09:54:10 Thursday, October 6, 2022
+  :
+  :Error proses : Object reference not set to an instance of an object., StackTrace:    at Dsf.Olss.Controllers.MGTIntegrationPaySchdlController.GetToOLSSAPI(Int32 id)
+-------------------------------
+
+Log Entry : 09:54:10 Thursday, October 6, 2022
+  :
+  :Alamat sync = http://dc-olssweb.corp.dipostar.com/olss2/MGTIntegrationPaySchdl/GetToOLSSAPI/9000488
+-------------------------------
+
+Log Entry : 09:54:10 Thursday, October 6, 2022
+  :
+  :Error saat proses url = http://dc-olssweb.corp.dipostar.com/olss2/MGTIntegrationPaySchdl/GetToOLSSAPI/9000488
+-------------------------------
+
+Log Entry : 09:54:10 Thursday, October 6, 2022
+  :
+  :Error proses : String was not recognized as a valid DateTime., StackTrace:    at System.DateTime.Parse(String s)
+   at Dsf.Olss.Controllers.MGTIntegrationPaySchdlController.getBilPayScheduleViewModel(Int32 Id)
+   at Dsf.Olss.Controllers.MGTIntegrationPaySchdlController.GetToOLSSAPI(Int32 id)
+-------------------------------
+
+Log Entry : 09:54:10 Thursday, October 6, 2022
+  :
+  :Alamat sync = http://dc-olssweb.corp.dipostar.com/olss2/MGTIntegrationPaySchdl/GetToOLSSAPI/9000489
+-------------------------------
+
+Log Entry : 09:54:10 Thursday, October 6, 2022
+  :
+  :Berhasil memproses 1 data dari 3 baris
+-------------------------------
+
+Log Entry : 09:54:10 Thursday, October 6, 2022
+  :
+  :Schedule for Agreement 0000744/4/08/08/2022 Has been updated
+-------------------------------
+
+Log Entry : 09:54:10 Thursday, October 6, 2022
+  :
+  :Total baris diproses ada 1
+-------------------------------
+
+Log Entry : 12:20:18 Thursday, October 6, 2022
+  :
+  :Sinkronisasi mulai berjalan
+-------------------------------
+
+Log Entry : 12:20:20 Thursday, October 6, 2022
+  :
+  :Total row akan diproses sebanyak: 0 baris
+-------------------------------
+
+Log Entry : 12:20:20 Thursday, October 6, 2022
+  :
+  :Total baris diproses ada 0
+-------------------------------
